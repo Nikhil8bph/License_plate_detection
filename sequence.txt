@@ -1,0 +1,7 @@
+Sequence to Run the code
+1. Ready_set.py
+2. Segment.py
+3. Predict_by_vision2.py
+4. Merge_list_output.py
+5. train20.py
+6. detection02.py
